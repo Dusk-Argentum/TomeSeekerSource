@@ -14,7 +14,7 @@ OWNER_ID = "97153790897045504"
 
 PREFIX = "." # This is the prefix you call commands with in Discord. For example: ".help" will call the the "Help" command, but only if your prefix is ".".
 DESCRIPTION = "A bot to look up homebrew info from a internet source. Written by zhu.exe#4211, modified by Dusk-Argentum#6530 and silverbass#2407." # Keep this the same.
-TOKEN = "NDI1NzMwMDIxNTQ2Nzg2ODM3.Dd_JzA.AGTdbovhqFd-hKvWRiIVlUmuyMA" #os.environ.get("TS")
+TOKEN = #os.environ.get("TS")
 UPDATE_DELAY = 600  # Delay is measured in seconds. "120" is 2 minutes, "360" is 6 minutes, "600" is 10 minutes, etc.
 
 discordping = 1
